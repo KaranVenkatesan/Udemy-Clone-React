@@ -13,11 +13,11 @@ function Footer() {
                 </div>
                 <div className="footer__one__s2">
                     <ul>
-                        <li>Careers</li>
-                        <li>Blog</li>
-                        <li>Help and Support</li>
-                        <li>Affiliate</li>
-                        <li>Investors</li>
+                        <li> Careers</li>
+                        <li> Blog</li>
+                        <li> Help and Support</li>
+                        <li> Affiliate</li>
+                        <li> Investors</li>
                     </ul>
                 </div>
             </div>
